@@ -28,7 +28,7 @@ Describe how you approached to problem, and what tools and techniques you used t
 
 ### View it live
 
-https://delightful-bavarois-3fc8d8.netlify.app/
+https://useqrcodegenerator.netlify.app/
 
 ## Instructions
 
